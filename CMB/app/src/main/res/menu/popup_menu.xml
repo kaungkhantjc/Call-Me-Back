@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_telenor"
+        android:title="@string/operator_telenor" />
+    <item android:id="@+id/menu_mytel"
+        android:title="@string/operator_mytel" />
+	<item android:id="@+id/menu_ooredoo"
+        android:title="@string/operator_ooredoo" />
+    <item android:id="@+id/menu_mpt"
+        android:title="@string/operator_mpt" />
+	
+</menu>

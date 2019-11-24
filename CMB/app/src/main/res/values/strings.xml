@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CMB</string>
+    <string name="operator_telenor">Telenor</string>
+	<string name="operator_mytel">Mytel</string>
+	<string name="operator_ooredoo">Ooredoo</string>
+	<string name="operator_mpt">MPT</string>
+	 
+	<string name="read_contact_rationale">You must allow READ CONTACTS permission to read contacts and get your desired phone number.</string>
+	<string name="call_phone_rationale">You must allow CALL PHONE permission to send \"Call Me Back\" using USSD code.</string>
+</resources>
