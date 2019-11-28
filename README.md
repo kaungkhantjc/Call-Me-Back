@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png)
+<img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png" width="30%"> </img>
 
 # Call-Me-Back
 Lightweight Free Call me back app 
@@ -33,8 +33,8 @@ app ၏ ထူးခြားချက်များ
 ပုံမှန်အားဖြင့် ထိုစနစ်ကို ပိတ်ထားသော်လည်း ကိုယ်တိုင် ဖွင့်နိုင် ၊ ပိတ်နိုင်သည်။
 
 
-|---------|---------|---------|
 | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/1.png) | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/2.png) | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/4.png) |
+|---|---|---|
 -------------------------------------
 
 
