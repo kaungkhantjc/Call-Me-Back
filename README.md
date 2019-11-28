@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/screenshots/ic_launcher.png)
+![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png)
 
 # Call-Me-Back
 Lightweight Free Call me back app 
@@ -23,18 +23,18 @@ app ၏ ထူးခြားချက်များ
 
    - ထည့်သွင်းသည့် နံပတ်အရေအတွက် ၁၁ လုံး ပြည့်လျှင် သို့မဟုတ်
    - ဖုန်းအဆက်အသွယ် ရွေးချယ်ပြီးလျှင်
-# နောက်အကြိမ်များတွင် ထပ်မံထည့်စရာ မလိုအောင် app က နံပတ်ကို အလိုအလျောက် မှတ်သားပေးသည်
+<ul> နောက်အကြိမ်များတွင် ထပ်မံထည့်စရာ မလိုအောင် app က နံပတ်ကို အလိုအလျောက် မှတ်သားပေးသည်</ul>
 
-# ရွေးချယ်ပြီး ဖုန်းအဆက်အသွယ်ထဲမှ နံပတ်သည် +95 country code ပါဝင်နေလျှင် ၀၉ အဖြစ် ရယူသည်
+<ul> ရွေးချယ်ပြီး ဖုန်းအဆက်အသွယ်ထဲမှ နံပတ်သည် +95 country code ပါဝင်နေလျှင် ၀၉ အဖြစ် ရယူသည်</ul>
 
-# ဖုန်းနံပတ် ထည့်သောအခါ ၀၉ မပါလျှင် အလိုအလျောက် ထည့်ပေးသည်
+<ul> ဖုန်းနံပတ် ထည့်သောအခါ ၀၉ မပါလျှင် အလိုအလျောက် ထည့်ပေးသည် </ul>
 
-# ဖုန်းပြန်ခေါ်ပေးပါ စာစောင် ၁ စောင် ပို့ပြီးလျှင် app ကို အလိုအလျောက် ပိတ်နိုင်သည်။
+<ul> ဖုန်းပြန်ခေါ်ပေးပါ စာစောင် ၁ စောင် ပို့ပြီးလျှင် app ကို အလိုအလျောက် ပိတ်နိုင်သည်။ </ul>
 ပုံမှန်အားဖြင့် ထိုစနစ်ကို ပိတ်ထားသော်လည်း ကိုယ်တိုင် ဖွင့်နိုင် ၊ ပိတ်နိုင်သည်။
 
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/screenshots/1.png)
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/screenshots/2.png)
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/screenshots/4.png)
+![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/4.png)
 
 
 English MD
@@ -53,12 +53,12 @@ Mytel        to        Mytel
 - supports from Android 2.2 (Froyo) to Latest version
 - include mini automations such as ...
 
-# auto save phone number after
+<ul> auto save phone number after </ul>
    - input number count reachs 11
    - a contact was chosen
 
-# auto detect country code from a chosen contact
-# auto add initial "09" if you forgot or lazy to type
+<ul> auto detect country code from a chosen contact </ul>
+<ul> auto add initial "09" if you forgot or lazy to type </ul>
 
-# auto close app after sending Call Me Back, which is disabled by default.
+<ul> auto close app after sending Call Me Back, which is disabled by default</ul>
 You can enable or disable it.
