@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png" width="30%"> </img>
+<img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png" width="26%"> </img>
 
 # Call-Me-Back
 Lightweight Free Call me back app 
@@ -30,8 +30,7 @@ app ၏ ထူးခြားချက်များ
 <ul> ဖုန်းနံပတ် ထည့်သောအခါ ၀၉ မပါလျှင် အလိုအလျောက် ထည့်ပေးသည် </ul>
 
 <ul> ဖုန်းပြန်ခေါ်ပေးပါ စာစောင် ၁ စောင် ပို့ပြီးလျှင် app ကို အလိုအလျောက် ပိတ်နိုင်သည်။ </ul>
-ပုံမှန်အားဖြင့် ထိုစနစ်ကို ပိတ်ထားသော်လည်း ကိုယ်တိုင် ဖွင့်နိုင် ၊ ပိတ်နိုင်သည်။
-
+ပုံမှန်အားဖြင့် ထိုစနစ်ကို ပိတ်ထားသော်လည်း ကိုယ်တိုင် ဖွင့်နိုင် ၊ ပိတ်နိုင်သည်။ <br/>
 
 | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/1.png) | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/2.png) | ![img](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/4.png) |
 |---|---|---|
