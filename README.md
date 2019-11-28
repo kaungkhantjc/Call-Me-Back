@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png)
+<img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/ic_launcher.png" width="40%"> </img>
 
 # Call-Me-Back
 Lightweight Free Call me back app 
@@ -31,10 +31,8 @@ app ၏ ထူးခြားချက်များ
 
 <ul> ဖုန်းပြန်ခေါ်ပေးပါ စာစောင် ၁ စောင် ပို့ပြီးလျှင် app ကို အလိုအလျောက် ပိတ်နိုင်သည်။ </ul>
 ပုံမှန်အားဖြင့် ထိုစနစ်ကို ပိတ်ထားသော်လည်း ကိုယ်တိုင် ဖွင့်နိုင် ၊ ပိတ်နိုင်သည်။
-
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/1.png)
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/2.png)
-![alt text](https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/4.png)
+<br>
+<img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/2.png" width="30%"></img> <img src="https://raw.githubusercontent.com/kaungkhantjc/Call-Me-Back/master/screenshots/4.png" width="30%"></img> 
 
 
 English MD
