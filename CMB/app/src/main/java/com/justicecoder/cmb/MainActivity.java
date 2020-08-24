@@ -244,7 +244,7 @@ public class MainActivity extends UtilsActivity implements View.OnClickListener,
 			case 0: ussd_prefix = "*1*" ; break;
 			case 1: ussd_prefix = "*521*"; break;
 			case 2: ussd_prefix = "*122*"; break;
-			case 4: ussd_prefix = "*222*"; break;
+			case 3: ussd_prefix = "*222*"; break;
 		}
 		Intent i = new Intent(Intent.ACTION_CALL);
 		i.setData(Uri.parse("tel:" + ussd_prefix + phone_number + "%23"));
